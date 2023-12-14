@@ -1,11 +1,9 @@
 # IBM_Data_Science
 
-**Course 2 - Tools for Data Science**
+**Course 2 - Tools for Data Science**</br>
+**Week 6** - Create and Share your Jupyter Notebook [(jupyter notebook)](https://github.com/matsumotomarlon/IBM_Data_Science/blob/main/Jupyter_Notebook.ipynb)</br>
 
-**Week 6** - Create and Share your Jupyter Notebook [(jupyter notebook)](https://github.com/matsumotomarlon/IBM_Data_Science/blob/main/Jupyter_Notebook.ipynb)
-
-**Course 3 - Data Science Methodology**
-
+**Course 3 - Data Science Methodology**</br>
 **Week 1** - Data Science Methodology</br>
 **Week 2** - </br>
 **Week 3** - </br>
